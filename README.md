@@ -1,1 +1,1 @@
-# ChhirolyaTech_Candidates_Frontend_Dev_Intern_Assignments
+# Frontend Developer Intern Assignments Submissions | Chhirolya Technologies
