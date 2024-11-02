@@ -21,7 +21,7 @@ Welcome to the **Frontend Project Submission Repository**! This repository is de
 ## Directory Structure
 
 Your folder should have the following structure: </br>
-AI-ML-Project-Submissions/ </br>
+Frontend-Project-Submissions/ </br>
 ├── FirstName_LastName_ProjectName/ </br>
 │   ├── README.md           # Project overview and instructions </br>
 │   ├── src/                # Source code files </br>
